@@ -10,9 +10,9 @@
 ---
 
 ## 🧾 Summary: 
-SMART (Simple Multimodal Algorithmic Reasoning Task) is deep neural network task that tries to solve visuolinguistic puzzles designed for children in the 6-8 age group. Experiments show that although deep models perform well on puzzles in a supervised setting, they lack generalization ability.
+SMART (Simple Multimodal Algorithmic Reasoning Task) is a deep neural network task that tries to solve visuolinguistic puzzles designed for children in the 6-8 age group. Experiments show that although deep models perform well on puzzles in a supervised setting, they lack generalization ability.
 
-## 🚀 How it works?
+## 🚀 How does it work?
 1. SMART task consists of a picture and a question, and their solution needs a mix of several elementary skills, including arithmetic, algebra, and spatial reasoning, among others. 
 2. To evaluate, they used a vision and language meta-learning model using some state-of-the-art backbones. For images, puzzle sppecific MLPs are used; for texts, param sharing MLPs are used. Then, the outputs froms both MLPs are concatenated, and predicted answers using a prediction head.
 3. They tried with ResNet-50, ResNet-18, ViT, Swin-Transformers and Cross-Transformers for image. And, GPT-2, BERT, and GloVe as text backbones.

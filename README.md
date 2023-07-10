@@ -9,9 +9,9 @@ In the rapidly evolving realm of artificial intelligence, keeping up with the la
 ## **Papers I Read**
 | Day | Date | Paper Name | Review |
 | --- | --- | --- | --- |
-| 01 | 7 July, 2023 | Towards Making Systems Forget with Machine Unlearning | [Review](/papers/Day01-Towards-Making-Systems-Forget-with-Machine-Unlearning.md) |
-| 02 | 8 July, 2023 | Fast Segment Anything| [Review](/papers/Day02-Fast-Segment-Anything) |
-| 03 | 9 July, 2023 | Are Deep Neural Networks SMARTer than Second Graders? | [Review](/papers/Day03-Are-Deep-Neural-Networks-SMARTer-than-Second-Graders) |
+| 01 | 7 July, 2023 | Towards Making Systems Forget with Machine Unlearning | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/Day01-Towards-Making-Systems-Forget-with-Machine-Unlearning.md) |
+| 02 | 8 July, 2023 | Fast Segment Anything| [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/Day02-Fast-Segment-Anything.md) |
+| 03 | 9 July, 2023 | Are Deep Neural Networks SMARTer than Second Graders? | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/Day03-Are-Deep-Neural-Networks-SMARTer-than-Second-Graders.md) |
 ---
 
 ## 📌 If it helped, don't forget to **star** the repo! ⭐⭐⭐⭐⭐
