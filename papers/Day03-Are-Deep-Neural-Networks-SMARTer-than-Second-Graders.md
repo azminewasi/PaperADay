@@ -10,21 +10,19 @@
 ---
 
 ## 🧾 Summary: 
-The paper proposes a faster alternative method for the segment anything model (SAM).This method achieves comparable performance with SAM at 50x🔥 higher run-time speed.
+SMART (Simple Multimodal Algorithmic Reasoning Task) is deep neural network task that tries to solve visuolinguistic puzzles designed for children in the 6-8 age group. Experiments show that although deep models perform well on puzzles in a supervised setting, they lack generalization ability.
 
-## 🚀 Why Faster?
-1. FastSAM breaks the segmenting process into two tasks: mask and bounding box creation using a CNN, and filtering based on input in a task-oriented post-processing stage.
-2. Firstly, it uses smaller CNNs. Also, it uses a modified YOLOv-8 head instead of ViT, allowing parallel workspace for both the Detection Head and Segmentation head, it reduces computation time. Utilizing CNN properties like local connections and receptive field object assignment, it preserves spatial details with semantic data.
+## 🚀 How it works?
+1. SMART task consists of a picture and a question, and their solution needs a mix of several elementary skills, including arithmetic, algebra, and spatial reasoning, among others. 
+2. To evaluate, they used a vision and language meta-learning model using some state-of-the-art backbones. For images, puzzle sppecific MLPs are used; for texts, param sharing MLPs are used. Then, the outputs froms both MLPs are concatenated, and predicted answers using a prediction head.
+3. They tried with ResNet-50, ResNet-18, ViT, Swin-Transformers and Cross-Transformers for image. And, GPT-2, BERT, and GloVe as text backbones.
 
-## 📊 Comparison with SAM:
-1. Anomaly Detection: lower precision compared to SAM, but can accurately segment using foreground/background points or box-guided selection.
-2.  Salient Object Segmentation: only a minor difference from SAM
-3. Building Detection: Segments fewer regions related to shadows compared to SAM
+## 📊 Evaluation
+- The model did better results on 6 out of 23 problems we considered than 2nd graders!
 
-## 👎 Weaknesses:
-1. Use of YOLACT method, as it is weak in mask generation.
+## 👎 Weakness
+- But, it fail entirely in extreme generalization, often selecting a random answer with an overall accuracy of around 20%.
 
-## ⭐ Possibilities:
-1. In around 5-6 days, official code repo on GitHub got 4.6K stars!
-2. To improve scalability, an additional production trick is suggested where the high processing load for generating masks and bounding boxes is shifted to the server, while the client's machine handles the lightweight filtering process. This leverages the advantages of FastSAM's decoupled architecture.
+## 💡 What now?
+ICCV 2023 will feature the workshop "VISION-AND-LANGUAGE ALGORITHMIC REASONING (VLAR)" which includes the 'SMART-101 Challenge' to explore new possibilities.
 
