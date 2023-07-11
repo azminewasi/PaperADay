@@ -25,4 +25,3 @@ SMART (Simple Multimodal Algorithmic Reasoning Task) is a deep neural network ta
 
 ## 💡 What now?
 ICCV 2023 will feature the workshop "VISION-AND-LANGUAGE ALGORITHMIC REASONING (VLAR)" which includes the 'SMART-101 Challenge' to explore new possibilities.
-

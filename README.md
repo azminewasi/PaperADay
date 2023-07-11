@@ -12,6 +12,10 @@ In the rapidly evolving realm of artificial intelligence, keeping up with the la
 | 01 | 7 July, 2023 | Towards Making Systems Forget with Machine Unlearning | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/Day01-Towards-Making-Systems-Forget-with-Machine-Unlearning.md) |
 | 02 | 8 July, 2023 | Fast Segment Anything| [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/Day02-Fast-Segment-Anything.md) |
 | 03 | 9 July, 2023 | Are Deep Neural Networks SMARTer than Second Graders? | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/Day03-Are-Deep-Neural-Networks-SMARTer-than-Second-Graders.md) |
+| 04 | 10 July, 2023 | ETA Prediction with Graph Neural Networks in Google Maps | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/Day04-ETA-Prediction-with-Graph-Neural-Networks-in-Google-Maps.md) |
+
+
+
 ---
 
 ## 📌 If it helped, don't forget to **star** the repo! ⭐⭐⭐⭐⭐
