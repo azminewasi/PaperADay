@@ -14,7 +14,7 @@ In the rapidly evolving realm of artificial intelligence, keeping up with the la
 | 03 | 9 July, 2023 | Are Deep Neural Networks SMARTer than Second Graders? | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/Day03-Are-Deep-Neural-Networks-SMARTer-than-Second-Graders.md) |
 | 04 | 10 July, 2023 | ETA Prediction with Graph Neural Networks in Google Maps | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/Day04-ETA-Prediction-with-Graph-Neural-Networks-in-Google-Maps.md) |
 | 05 | 11 July, 2023 | PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/Day05-PinnerSage-Multi-Modal-User-Embedding-Framework.md) |
-
+| 06 | 12 July, 2023 | Beyond Audio: Towards a Design Space of Headphones as a Site for Interaction and Sensing | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/Day06-Beyond-Audio.md) |
 
 ---
 
