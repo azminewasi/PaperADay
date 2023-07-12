@@ -6,7 +6,7 @@
 - **arXiv**: https://arxiv.org/abs/2108.11482
 
 ---
-![](figs\Day04\1.png)
+![](.\figs\Day04\1.png)
 
 ---
 
