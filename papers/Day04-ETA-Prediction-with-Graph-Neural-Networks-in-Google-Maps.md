@@ -1,4 +1,4 @@
-# Paper Review - Day 03
+# Paper Review - Day 04
 
 ## **Paper Title**: ETA Prediction with Graph Neural Networks in Google Maps
 - **Authors**: Austin Derrow-Pinion, Jennifer She, David Wong, Oliver Lange, Todd Hester, Luis Perez, Marc Nunkesser, Seongjae Lee, Xueying Guo, Brett Wiltshire, Peter W. Battaglia, Vishal Gupta, Ang Li, Zhongwen Xu, Alvaro Sanchez-Gonzalez, Yujia Li, Petar Veličković

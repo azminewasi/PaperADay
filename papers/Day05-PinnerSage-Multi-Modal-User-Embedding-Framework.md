@@ -1,8 +1,8 @@
-# Paper Review - Day 03
+# Paper Review - Day 05
 
 ## **Paper Title**: PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest
 - **Authors**: Aditya Pal, Chantat Eksombatchai, Yitong Zhou, Bo Zhao, Charles Rosenberg, Jure Leskovec
-- **Publication**: CIKM 2020
+- **Publication**: KDD 2020
 - **arXiv**: https://arxiv.org/abs/2007.03634
 
 ---
