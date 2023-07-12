@@ -7,6 +7,11 @@
 - **Github**: https://github.com/merlresearch/SMART
 - **Papers with Code**: https://paperswithcode.com/paper/are-deep-neural-networks-smarter-than-second
 
+
+---
+
+![](./figs/Day03/1.png)
+
 ---
 
 ## 🧾 Summary: 
@@ -16,9 +21,11 @@ SMART (Simple Multimodal Algorithmic Reasoning Task) is a deep neural network ta
 1. SMART task consists of a picture and a question, and their solution needs a mix of several elementary skills, including arithmetic, algebra, and spatial reasoning, among others. 
 2. To evaluate, they used a vision and language meta-learning model using some state-of-the-art backbones. For images, puzzle sppecific MLPs are used; for texts, param sharing MLPs are used. Then, the outputs froms both MLPs are concatenated, and predicted answers using a prediction head.
 3. They tried with ResNet-50, ResNet-18, ViT, Swin-Transformers and Cross-Transformers for image. And, GPT-2, BERT, and GloVe as text backbones.
+![](./figs/Day03/2.jpg)
 
 ## 📊 Evaluation
 - The model did better results on 6 out of 23 problems we considered than 2nd graders!
+![](./figs/Day03/3.jpg)
 
 ## 👎 Weakness
 - But, it fail entirely in extreme generalization, often selecting a random answer with an overall accuracy of around 20%.

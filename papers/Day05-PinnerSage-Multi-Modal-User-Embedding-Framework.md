@@ -7,7 +7,7 @@
 
 ---
 
-![](figs\Day05\1.png)
+![](./figs/Day05/1.png)
 
 ---
 

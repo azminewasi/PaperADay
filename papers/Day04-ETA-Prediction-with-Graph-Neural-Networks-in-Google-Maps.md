@@ -6,7 +6,7 @@
 - **arXiv**: https://arxiv.org/abs/2108.11482
 
 ---
-![](.\figs\Day04\1.png)
+![](./figs/Day04/1.png)
 
 ---
 
@@ -16,7 +16,7 @@ This paper explores how Google uses GNN technology to accurately predict travel 
 ## 🚀How?
 - It models road networks using supersegments and predicts travel time for each supersegment at different fixed time horizons into the future, which are queried sequentially to arrive at a travel time for the next supersegment, taking into account both spatial and temporal information. 
 
-![](figs\Day04\2.png)
+![](./figs/Day04/2.png)
 
 - Each super segment has some segments, each segment has 50–100 meters of road, where the center of the segment is considered a node, Travel between the nodes are the edges.
 
@@ -34,10 +34,10 @@ This paper explores how Google uses GNN technology to accurately predict travel 
 ## 📊 Findings
 - The model significantly reduces negative ETA outcomes in several regions compared to the previous production baseline (40+% in cities like Sydney).
 
-![](figs\Day04\3.png)
+![](./figs/Day04/3.png)
 
 - Having multiple prediction horizons improves the accuracy of ETA by comparing predicted travel times over different time frames. The GNN's predictions for a 3600-second horizon match actual travel times better after 60 minutes compared to predictions with a 0-second horizon.
 
-![](figs\Day04\4.png)
+![](./figs/Day04/4.png)
 
 

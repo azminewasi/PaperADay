@@ -6,7 +6,7 @@
 
 ---
 
-![](https://github.com/azminewasi/PaperADay/blob/main/papers/figs/Picture2%20Machine%20Unlearning1.png)
+![](./figs/Day01/1.png)
 
 ---
 

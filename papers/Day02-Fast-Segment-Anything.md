@@ -7,17 +7,23 @@
 
 ---
 
+![](./figs/Day02/1.png)
+---
+
+
 ## 🧾 Summary: 
 The paper proposes a faster alternative method for the segment anything model (SAM).This method achieves comparable performance with SAM at 50x🔥 higher run-time speed.
 
 ## 🚀 Why Faster?
 1. FastSAM breaks the segmenting process into two tasks: mask and bounding box creation using a CNN, and filtering based on input in a task-oriented post-processing stage.
 2. Firstly, it uses smaller CNNs. Also, it uses a modified YOLOv-8 head instead of ViT, allowing parallel workspace for both the Detection Head and Segmentation head, it reduces computation time. Utilizing CNN properties like local connections and receptive field object assignment, it preserves spatial details with semantic data.
+![](./figs/Day02/2.jpg)
 
 ## 📊 Comparison with SAM:
 1. Anomaly Detection: lower precision compared to SAM, but can accurately segment using foreground/background points or box-guided selection.
 2.  Salient Object Segmentation: only a minor difference from SAM
 3. Building Detection: Segments fewer regions related to shadows compared to SAM
+![](./figs/Day02/3.jpg)
 
 ## 👎 Weaknesses:
 1. Use of YOLACT method, as it is weak in mask generation.
