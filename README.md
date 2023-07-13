@@ -15,6 +15,9 @@ In the rapidly evolving realm of artificial intelligence, keeping up with the la
 | 04 | 10 July, 2023 | ETA Prediction with Graph Neural Networks in Google Maps | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/Day04-ETA-Prediction-with-Graph-Neural-Networks-in-Google-Maps.md) |
 | 05 | 11 July, 2023 | PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/Day05-PinnerSage-Multi-Modal-User-Embedding-Framework.md) |
 | 06 | 12 July, 2023 | Beyond Audio: Towards a Design Space of Headphones as a Site for Interaction and Sensing | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/Day06-Beyond-Audio.md) |
+| 07 | 13 July, 2023 | Objaverse-XL: A Universe of 10M+ 3D Objects | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/Day07-2-Objaverse-XL.md) |
+| 07 | 13 July, 2023 | Reconstructing the Mind's Eye fMRI-to-Image with Contrastive Learning and Diffusion Priors | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/Day07-Reconstructing-Minds-Eye-fMRI-to-Image.md) |
+
 
 ---
 
