@@ -3,7 +3,7 @@
 ## **Paper Title**: Test-Time Training on Video Streams
 - **Authors**: Renhao Wang, Yu Sun, Yossi Gandelsman, Xinlei Chen, Alexei A. Efros, Xiaolong Wang
 - **arXiv**: https://arxiv.org/abs/2307.05014
-- **Websute** - https://video-ttt.github.io/
+- **Website** - https://video-ttt.github.io/
 ---
 
 ![](./figs/16/1.png)

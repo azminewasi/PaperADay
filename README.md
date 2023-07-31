@@ -25,6 +25,8 @@ In the rapidly evolving realm of artificial intelligence, keeping up with the la
 | 14 | AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/14-AnimateDiff.md) |
 | 15 | DeepSIM: Image Shape Manipulation from a Single Augmented Training Sample | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/15-DeepSIM.md) |
 | 16 | Test-Time Training on Video Streams | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/16-Test-Time-Training.md) |
+| 17 | SuperGlue: Learning Feature Matching with Graph Neural Networks | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/17-SuperGlue.md) |
+| 18 | Nerfies: Deformable Neural Radiance Fields | [Review](https://github.com/azminewasi/PaperADay/blob/main/papers/18-Nerfies.md) |
 
 
 ---
